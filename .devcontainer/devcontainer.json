@@ -1,4 +1,4 @@
-{
+{Let's rename \*our-new-project\* to \*our-old-project\*.
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "buildtools",
 	"onCreateCommand": ".devcontainer/on-create-command.sh",
